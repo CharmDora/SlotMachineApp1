@@ -1,0 +1,10 @@
+C:\Users\charm\source\repos\C# projects\SlotMachineApp\SlotMachineApp\bin\Debug\SlotMachineApp.exe.config
+C:\Users\charm\source\repos\C# projects\SlotMachineApp\SlotMachineApp\bin\Debug\SlotMachineApp.exe
+C:\Users\charm\source\repos\C# projects\SlotMachineApp\SlotMachineApp\bin\Debug\SlotMachineApp.pdb
+C:\Users\charm\source\repos\C# projects\SlotMachineApp\SlotMachineApp\obj\Debug\SlotMachineApp.csproj.AssemblyReference.cache
+C:\Users\charm\source\repos\C# projects\SlotMachineApp\SlotMachineApp\obj\Debug\SlotMachineApp.Form1.resources
+C:\Users\charm\source\repos\C# projects\SlotMachineApp\SlotMachineApp\obj\Debug\SlotMachineApp.Properties.Resources.resources
+C:\Users\charm\source\repos\C# projects\SlotMachineApp\SlotMachineApp\obj\Debug\SlotMachineApp.csproj.GenerateResource.cache
+C:\Users\charm\source\repos\C# projects\SlotMachineApp\SlotMachineApp\obj\Debug\SlotMachineApp.csproj.CoreCompileInputs.cache
+C:\Users\charm\source\repos\C# projects\SlotMachineApp\SlotMachineApp\obj\Debug\SlotMachineApp.exe
+C:\Users\charm\source\repos\C# projects\SlotMachineApp\SlotMachineApp\obj\Debug\SlotMachineApp.pdb
